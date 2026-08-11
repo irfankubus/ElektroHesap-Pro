@@ -1,0 +1,1193 @@
+{
+  "sorti_nya": {
+    "sorti_uzunluk": 50,
+    "items": [
+      {
+        "no": 1,
+        "malzeme": "Ø18 PVC Boru",
+        "birim_fiyat": 0.57,
+        "miktarlar": {
+          "sa_normal": 50.0,
+          "sa_paralel": 0,
+          "sa_priz": 50.0,
+          "sa_komitator": 50.0,
+          "sa_vaviyen": 50.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 2,
+        "malzeme": "1.5mm² NYA Kablo ",
+        "birim_fiyat": 0.145,
+        "miktarlar": {
+          "sa_normal": 100.0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 200.0,
+          "sa_vaviyen": 200.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 3,
+        "malzeme": "2.5mm² NYA Kablo ",
+        "birim_fiyat": 0.22,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 150.0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 4,
+        "malzeme": "2x1.5 NYM Kablo",
+        "birim_fiyat": 0.46,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 50.0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 100.0,
+          "nem_vaviyen": 100.0
+        }
+      },
+      {
+        "no": 5,
+        "malzeme": "3x1.5 NYM Kablo",
+        "birim_fiyat": 0.61,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 6,
+        "malzeme": "3x2.5 NYM Kablo",
+        "birim_fiyat": 0.89,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 50.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 7,
+        "malzeme": "4x2.5 NYM Kablo",
+        "birim_fiyat": 1.13,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 8,
+        "malzeme": "Sıra Klemens 2 No",
+        "birim_fiyat": 0.76,
+        "miktarlar": {
+          "sa_normal": 0.5,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 1.5
+        }
+      },
+      {
+        "no": 9,
+        "malzeme": "Sıra Klemens 3 No",
+        "birim_fiyat": 1.1,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 10,
+        "malzeme": "SA Normal Anahtar",
+        "birim_fiyat": 2.2,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 11,
+        "malzeme": "SA Vaviyen Anahtar",
+        "birim_fiyat": 2.29,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 2.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 12,
+        "malzeme": "SA Komitatör Anahtar",
+        "birim_fiyat": 2.45,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 13,
+        "malzeme": "SA Priz",
+        "birim_fiyat": 2.28,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 14,
+        "malzeme": "SÜ Normal Anahtar",
+        "birim_fiyat": 1.8,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 15,
+        "malzeme": "SÜ Vaniyen Anahtar",
+        "birim_fiyat": 1.95,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 2.0
+        }
+      },
+      {
+        "no": 16,
+        "malzeme": "SÜ Komitatör Anahtar",
+        "birim_fiyat": 2.18,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 17,
+        "malzeme": "SÜ Priz",
+        "birim_fiyat": 1.95,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 18,
+        "malzeme": "Buat",
+        "birim_fiyat": 0.85,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 19,
+        "malzeme": "Buat Kapağı",
+        "birim_fiyat": 0.2,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 20,
+        "malzeme": "Anahtar Kasası",
+        "birim_fiyat": 0.4,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 2.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 21,
+        "malzeme": "SÜ BUAT",
+        "birim_fiyat": 2.15,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 1.0
+        }
+      },
+      {
+        "no": 22,
+        "malzeme": "25x16mm Kablo kanalı",
+        "birim_fiyat": 0.6,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 50.0,
+          "nem_paralel": 0,
+          "nem_priz": 50.0,
+          "nem_komitator": 50.0,
+          "nem_vaviyen": 50.0
+        }
+      },
+      {
+        "no": 23,
+        "malzeme": "25x25mm Kablo Kanalı",
+        "birim_fiyat": 0.7,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      }
+    ],
+    "aciklama": "NYA Kablo - Sıva Altı & Nemli Yer"
+  },
+  "sorti_n2xh": {
+    "sorti_uzunluk": 10,
+    "items": [
+      {
+        "no": 1,
+        "malzeme": "Ø18 PVC Boru",
+        "birim_fiyat": 0.75,
+        "miktarlar": {
+          "sa_normal": 10.0,
+          "sa_paralel": 10.0,
+          "sa_priz": 10.0,
+          "sa_komitator": 10.0,
+          "sa_vaviyen": 10.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 2,
+        "malzeme": "1.5mm² N2XH Kablo ",
+        "birim_fiyat": 0.23,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 3,
+        "malzeme": "2.5mm² N2XH Kablo ",
+        "birim_fiyat": 0.35,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 4,
+        "malzeme": "2x1.5 N2XH Kablo",
+        "birim_fiyat": 0.8,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 5,
+        "malzeme": "3x1.5 N2XH Kablo",
+        "birim_fiyat": 1.1,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 6,
+        "malzeme": "3x2.5 N2XH Kablo",
+        "birim_fiyat": 1.55,
+        "miktarlar": {
+          "sa_normal": 10.0,
+          "sa_paralel": 10.0,
+          "sa_priz": 10.0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 10.0,
+          "nem_paralel": 10.0,
+          "nem_priz": 10.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 7,
+        "malzeme": "4x2.5 N2XH Kablo",
+        "birim_fiyat": 2.15,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 10.0,
+          "sa_vaviyen": 10.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 10.0,
+          "nem_vaviyen": 10.0
+        }
+      },
+      {
+        "no": 8,
+        "malzeme": "Sıra Klemens 2 No",
+        "birim_fiyat": 1.085,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 9,
+        "malzeme": "Sıra Klemens 3 No",
+        "birim_fiyat": 1.47,
+        "miktarlar": {
+          "sa_normal": 0.5,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0.5,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 1.0
+        }
+      },
+      {
+        "no": 10,
+        "malzeme": "SA Normal Anahtar",
+        "birim_fiyat": 13.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 11,
+        "malzeme": "SA Vaviyen Anahtar",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 12,
+        "malzeme": "SA Komitatör Anahtar",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 13,
+        "malzeme": "SA Priz",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 14,
+        "malzeme": "SÜ Normal Anahtar",
+        "birim_fiyat": 12.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 15,
+        "malzeme": "SÜ Vaniyen Anahtar",
+        "birim_fiyat": 13.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 16,
+        "malzeme": "SÜ Komitatör Anahtar",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 17,
+        "malzeme": "SÜ Priz",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 18,
+        "malzeme": "Buat",
+        "birim_fiyat": 1.0,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 19,
+        "malzeme": "Buat Kapağı",
+        "birim_fiyat": 0.5,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 20,
+        "malzeme": "Anahtar Kasası",
+        "birim_fiyat": 1.0,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 2.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 21,
+        "malzeme": "SÜ BUAT",
+        "birim_fiyat": 2.5,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 1.0
+        }
+      },
+      {
+        "no": 22,
+        "malzeme": "25x16mm Kablo kanalı",
+        "birim_fiyat": 0.72,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 10.0,
+          "nem_paralel": 0,
+          "nem_priz": 10.0,
+          "nem_komitator": 10.0,
+          "nem_vaviyen": 10.0
+        }
+      },
+      {
+        "no": 23,
+        "malzeme": "25x25mm Kablo Kanalı",
+        "birim_fiyat": 0.8,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      }
+    ],
+    "aciklama": "N2XH Kablo - Halojensiz"
+  },
+  "sorti_n2xh_emt": {
+    "sorti_uzunluk": 25,
+    "items": [
+      {
+        "no": 1,
+        "malzeme": "3/4\" EMT BORU",
+        "birim_fiyat": 3.76,
+        "miktarlar": {
+          "sa_normal": 25.0,
+          "sa_paralel": 0,
+          "sa_priz": 25.0,
+          "sa_komitator": 25.0,
+          "sa_vaviyen": 25.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 2,
+        "malzeme": "1.5mm² N2XH Kablo ",
+        "birim_fiyat": 0.23,
+        "miktarlar": {
+          "sa_normal": 50.0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 100.0,
+          "sa_vaviyen": 100.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 3,
+        "malzeme": "2.5mm² N2XH Kablo ",
+        "birim_fiyat": 0.35,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 75.0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 4,
+        "malzeme": "2x1.5 N2XH Kablo",
+        "birim_fiyat": 0.8,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 25.0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 50.0,
+          "nem_vaviyen": 50.0
+        }
+      },
+      {
+        "no": 5,
+        "malzeme": "3x1.5 N2XH Kablo",
+        "birim_fiyat": 1.1,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 6,
+        "malzeme": "3x2.5 N2XH Kablo",
+        "birim_fiyat": 1.55,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 25.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 7,
+        "malzeme": "4x2.5 N2XH Kablo",
+        "birim_fiyat": 2.15,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 8,
+        "malzeme": "Sıra Klemens 2 No",
+        "birim_fiyat": 3.0,
+        "miktarlar": {
+          "sa_normal": 0.5,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 1.5
+        }
+      },
+      {
+        "no": 9,
+        "malzeme": "Sıra Klemens 3 No",
+        "birim_fiyat": 1.47,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 10,
+        "malzeme": "SA Normal Anahtar",
+        "birim_fiyat": 13.0,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 11,
+        "malzeme": "SA Vaviyen Anahtar",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 2.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 12,
+        "malzeme": "SA Komitatör Anahtar",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 13,
+        "malzeme": "SA Priz",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 14,
+        "malzeme": "SÜ Normal Anahtar",
+        "birim_fiyat": 12.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 15,
+        "malzeme": "SÜ Vaniyen Anahtar",
+        "birim_fiyat": 13.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 2.0
+        }
+      },
+      {
+        "no": 16,
+        "malzeme": "SÜ Komitatör Anahtar",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 17,
+        "malzeme": "SÜ Priz",
+        "birim_fiyat": 14.0,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 18,
+        "malzeme": "Buat",
+        "birim_fiyat": 6.8,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 19,
+        "malzeme": "Buat Kapağı",
+        "birim_fiyat": 20.8,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 1.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 20,
+        "malzeme": "Anahtar Kasası",
+        "birim_fiyat": 6.8,
+        "miktarlar": {
+          "sa_normal": 1.0,
+          "sa_paralel": 0,
+          "sa_priz": 1.0,
+          "sa_komitator": 1.0,
+          "sa_vaviyen": 2.0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      },
+      {
+        "no": 21,
+        "malzeme": "SÜ BUAT",
+        "birim_fiyat": 7.28,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 1.0,
+          "nem_paralel": 0,
+          "nem_priz": 1.0,
+          "nem_komitator": 1.0,
+          "nem_vaviyen": 1.0
+        }
+      },
+      {
+        "no": 22,
+        "malzeme": "25x16mm Kablo kanalı",
+        "birim_fiyat": 3.824,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 25.0,
+          "nem_paralel": 0,
+          "nem_priz": 25.0,
+          "nem_komitator": 25.0,
+          "nem_vaviyen": 25.0
+        }
+      },
+      {
+        "no": 23,
+        "malzeme": "25x25mm Kablo Kanalı",
+        "birim_fiyat": 3.824,
+        "miktarlar": {
+          "sa_normal": 0,
+          "sa_paralel": 0,
+          "sa_priz": 0,
+          "sa_komitator": 0,
+          "sa_vaviyen": 0,
+          "nem_normal": 0,
+          "nem_paralel": 0,
+          "nem_priz": 0,
+          "nem_komitator": 0,
+          "nem_vaviyen": 0
+        }
+      }
+    ],
+    "aciklama": "N2XH + EMT Boru"
+  }
+}

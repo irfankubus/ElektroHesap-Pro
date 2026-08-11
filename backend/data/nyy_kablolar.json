@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "kablo_tipi": "1x1.5mm² NYY Kablo",
+    "kesit": 1.5,
+    "cap": 8,
+    "direnc": 11.9,
+    "akim_toprakta": 37,
+    "akim_havada": 26,
+    "agirlik": 65
+  },
+  {
+    "id": 2,
+    "kablo_tipi": "1x2.5mm² NYY Kablo",
+    "kesit": 2.5,
+    "cap": 8.4,
+    "direnc": 7.14,
+    "akim_toprakta": 50,
+    "akim_havada": 35,
+    "agirlik": 80
+  },
+  {
+    "id": 3,
+    "kablo_tipi": "1x4mm² NYY Kablo",
+    "kesit": 4,
+    "cap": 8.9,
+    "direnc": 4.47,
+    "akim_toprakta": 65,
+    "akim_havada": 46,
+    "agirlik": 110
+  },
+  {
+    "id": 4,
+    "kablo_tipi": "1x6mm² NYY Kablo",
+    "kesit": 6,
+    "cap": 9.4,
+    "direnc": 2.97,
+    "akim_toprakta": 83,
+    "akim_havada": 58,
+    "agirlik": 140
+  },
+  {
+    "id": 5,
+    "kablo_tipi": "1x10mm² NYY Kablo",
+    "kesit": 10,
+    "cap": 10.7,
+    "direnc": 1.79,
+    "akim_toprakta": 110,
+    "akim_havada": 80,
+    "agirlik": 195
+  },
+  {
+    "id": 6,
+    "kablo_tipi": "1x16mm² NYY Kablo",
+    "kesit": 16,
+    "cap": 11.7,
+    "direnc": 1.12,
+    "akim_toprakta": 145,
+    "akim_havada": 105,
+    "agirlik": 270
+  },
+  {
+    "id": 7,
+    "kablo_tipi": "1x25mm² NYY Kablo",
+    "kesit": 25,
+    "cap": 12.9,
+    "direnc": 0.712,
+    "akim_toprakta": 190,
+    "akim_havada": 140,
+    "agirlik": 370
+  },
+  {
+    "id": 8,
+    "kablo_tipi": "1x35mm² NYY Kablo",
+    "kesit": 35,
+    "cap": 14.1,
+    "direnc": 0.514,
+    "akim_toprakta": 235,
+    "akim_havada": 175,
+    "agirlik": 480
+  },
+  {
+    "id": 9,
+    "kablo_tipi": "1x50mm² NYY Kablo",
+    "kesit": 50,
+    "cap": 15.6,
+    "direnc": 0.379,
+    "akim_toprakta": 280,
+    "akim_havada": 215,
+    "agirlik": 640
+  },
+  {
+    "id": 10,
+    "kablo_tipi": "1x70mm² NYY Kablo",
+    "kesit": 70,
+    "cap": 17.2,
+    "direnc": 0.262,
+    "akim_toprakta": 350,
+    "akim_havada": 270,
+    "agirlik": 850
+  },
+  {
+    "id": 11,
+    "kablo_tipi": "1x95mm² NYY Kablo",
+    "kesit": 95,
+    "cap": 19.4,
+    "direnc": 0.189,
+    "akim_toprakta": 420,
+    "akim_havada": 335,
+    "agirlik": 1115
+  },
+  {
+    "id": 12,
+    "kablo_tipi": "1x120mm² NYY Kablo",
+    "kesit": 120,
+    "cap": 21.4,
+    "direnc": 0.15,
+    "akim_toprakta": 480,
+    "akim_havada": 390,
+    "agirlik": 1340
+  },
+  {
+    "id": 13,
+    "kablo_tipi": "1x150mm² NYY Kablo",
+    "kesit": 150,
+    "cap": 23,
+    "direnc": 0.122,
+    "akim_toprakta": 540,
+    "akim_havada": 445,
+    "agirlik": 1660
+  },
+  {
+    "id": 14,
+    "kablo_tipi": "1x185mm² NYY Kablo",
+    "kesit": 185,
+    "cap": 25.7,
+    "direnc": 0.0972,
+    "akim_toprakta": 620,
+    "akim_havada": 510,
+    "agirlik": 2030
+  },
+  {
+    "id": 15,
+    "kablo_tipi": "1x240mm² NYY Kablo",
+    "kesit": 240,
+    "cap": 29,
+    "direnc": 0.074,
+    "akim_toprakta": 561,
+    "akim_havada": 590,
+    "agirlik": 2650
+  },
+  {
+    "id": 16,
+    "kablo_tipi": "1x300mm² NYY Kablo",
+    "kesit": 300,
+    "cap": 32,
+    "direnc": 0.059,
+    "akim_toprakta": 820,
+    "akim_havada": 710,
+    "agirlik": 3370
+  },
+  {
+    "id": 17,
+    "kablo_tipi": "2x1.5mm² NYY Kablo",
+    "kesit": 1.5,
+    "cap": 11,
+    "direnc": 12.1,
+    "akim_toprakta": 30,
+    "akim_havada": 21,
+    "agirlik": 170
+  },
+  {
+    "id": 18,
+    "kablo_tipi": "2x2.5mm² NYY Kablo",
+    "kesit": 2.5,
+    "cap": 13,
+    "direnc": 7.28,
+    "akim_toprakta": 41,
+    "akim_havada": 29,
+    "agirlik": 220
+  },
+  {
+    "id": 19,
+    "kablo_tipi": "2x4mm² NYY Kablo",
+    "kesit": 4,
+    "cap": 14,
+    "direnc": 4.56,
+    "akim_toprakta": 53,
+    "akim_havada": 38,
+    "agirlik": 290
+  },
+  {
+    "id": 20,
+    "kablo_tipi": "2x6mm² NYY Kablo",
+    "kesit": 6,
+    "cap": 15,
+    "direnc": 3.03,
+    "akim_toprakta": 66,
+    "akim_havada": 48,
+    "agirlik": 350
+  },
+  {
+    "id": 21,
+    "kablo_tipi": "2x10mm² NYY Kablo",
+    "kesit": 10,
+    "cap": 17,
+    "direnc": 1.83,
+    "akim_toprakta": 88,
+    "akim_havada": 66,
+    "agirlik": 480
+  },
+  {
+    "id": 22,
+    "kablo_tipi": "3x1.5mm² NYY Kablo",
+    "kesit": 1.5,
+    "cap": 12,
+    "direnc": 12.1,
+    "akim_toprakta": 27,
+    "akim_havada": 18,
+    "agirlik": 190
+  },
+  {
+    "id": 23,
+    "kablo_tipi": "3x2.5mm² NYY Kablo",
+    "kesit": 2.5,
+    "cap": 13,
+    "direnc": 7.28,
+    "akim_toprakta": 36,
+    "akim_havada": 25,
+    "agirlik": 260
+  },
+  {
+    "id": 24,
+    "kablo_tipi": "3x4mm² NYY Kablo",
+    "kesit": 4,
+    "cap": 15,
+    "direnc": 4.56,
+    "akim_toprakta": 46,
+    "akim_havada": 34,
+    "agirlik": 340
+  },
+  {
+    "id": 25,
+    "kablo_tipi": "3x6mm² NYY Kablo",
+    "kesit": 6,
+    "cap": 16,
+    "direnc": 2.03,
+    "akim_toprakta": 58,
+    "akim_havada": 44,
+    "agirlik": 420
+  },
+  {
+    "id": 26,
+    "kablo_tipi": "3x10mm² NYY Kablo",
+    "kesit": 10,
+    "cap": 17,
+    "direnc": 1.83,
+    "akim_toprakta": 77,
+    "akim_havada": 60,
+    "agirlik": 580
+  },
+  {
+    "id": 27,
+    "kablo_tipi": "4x1.5mm² NYY Kablo",
+    "kesit": 1.5,
+    "cap": 13,
+    "direnc": 12.1,
+    "akim_toprakta": 27,
+    "akim_havada": 18,
+    "agirlik": 230
+  },
+  {
+    "id": 28,
+    "kablo_tipi": "4x2.5mm² NYY Kablo",
+    "kesit": 2.5,
+    "cap": 14,
+    "direnc": 7.28,
+    "akim_toprakta": 36,
+    "akim_havada": 25,
+    "agirlik": 300
+  },
+  {
+    "id": 29,
+    "kablo_tipi": "4x4mm² NYY Kablo",
+    "kesit": 4,
+    "cap": 16,
+    "direnc": 4.56,
+    "akim_toprakta": 46,
+    "akim_havada": 34,
+    "agirlik": 410
+  },
+  {
+    "id": 30,
+    "kablo_tipi": "4x6mm² NYY Kablo",
+    "kesit": 6,
+    "cap": 17,
+    "direnc": 3.03,
+    "akim_toprakta": 58,
+    "akim_havada": 44,
+    "agirlik": 510
+  },
+  {
+    "id": 31,
+    "kablo_tipi": "4x10mm² NYY Kablo",
+    "kesit": 10,
+    "cap": 20,
+    "direnc": 1.83,
+    "akim_toprakta": 77,
+    "akim_havada": 60,
+    "agirlik": 780
+  },
+  {
+    "id": 32,
+    "kablo_tipi": "4x16mm² NYY Kablo",
+    "kesit": 16,
+    "cap": 23,
+    "direnc": 1.15,
+    "akim_toprakta": 100,
+    "akim_havada": 80,
+    "agirlik": 1100
+  },
+  {
+    "id": 33,
+    "kablo_tipi": "3x16/10mm² NYY Kablo",
+    "kesit": 16,
+    "cap": 20,
+    "direnc": 1.15,
+    "akim_toprakta": 100,
+    "akim_havada": 80,
+    "agirlik": 1050
+  },
+  {
+    "id": 34,
+    "kablo_tipi": "3x25/16mm² NYY Kablo",
+    "kesit": 25,
+    "cap": 27,
+    "direnc": 0.0727,
+    "akim_toprakta": 130,
+    "akim_havada": 105,
+    "agirlik": 1420
+  },
+  {
+    "id": 35,
+    "kablo_tipi": "3x35/16mm² NYY Kablo",
+    "kesit": 35,
+    "cap": 30,
+    "direnc": 0.524,
+    "akim_toprakta": 155,
+    "akim_havada": 130,
+    "agirlik": 1790
+  },
+  {
+    "id": 36,
+    "kablo_tipi": "3x50/25mm² NYY Kablo",
+    "kesit": 50,
+    "cap": 36,
+    "direnc": 0.387,
+    "akim_toprakta": 185,
+    "akim_havada": 160,
+    "agirlik": 2290
+  },
+  {
+    "id": 37,
+    "kablo_tipi": "3x70/35mm² NYY Kablo",
+    "kesit": 70,
+    "cap": 40,
+    "direnc": 0.268,
+    "akim_toprakta": 230,
+    "akim_havada": 200,
+    "agirlik": 3066
+  },
+  {
+    "id": 38,
+    "kablo_tipi": "3x95/50mm² NYY Kablo",
+    "kesit": 95,
+    "cap": 45,
+    "direnc": 0.193,
+    "akim_toprakta": 275,
+    "akim_havada": 245,
+    "agirlik": 4097
+  },
+  {
+    "id": 39,
+    "kablo_tipi": "3x120/70mm² NYY Kablo",
+    "kesit": 120,
+    "cap": 50,
+    "direnc": 0.153,
+    "akim_toprakta": 315,
+    "akim_havada": 285,
+    "agirlik": 5700
+  },
+  {
+    "id": 40,
+    "kablo_tipi": "3x150/70mm² NYY Kablo",
+    "kesit": 150,
+    "cap": 52,
+    "direnc": 0.124,
+    "akim_toprakta": 355,
+    "akim_havada": 325,
+    "agirlik": 6132
+  },
+  {
+    "id": 41,
+    "kablo_tipi": "3x185/95mm² NYY Kablo",
+    "kesit": 185,
+    "cap": 59,
+    "direnc": 0.991,
+    "akim_toprakta": 400,
+    "akim_havada": 370,
+    "agirlik": 7625
+  },
+  {
+    "id": 42,
+    "kablo_tipi": "3x240/120mm² NYY Kablo",
+    "kesit": 240,
+    "cap": 66,
+    "direnc": 0.574,
+    "akim_toprakta": 460,
+    "akim_havada": 435,
+    "agirlik": 9950
+  },
+  {
+    "id": 43,
+    "kablo_tipi": "3x300/150mm² NYY Kablo",
+    "kesit": 300,
+    "cap": 73,
+    "direnc": 0.0601,
+    "akim_toprakta": 520,
+    "akim_havada": 500,
+    "agirlik": 12500
+  }
+]
