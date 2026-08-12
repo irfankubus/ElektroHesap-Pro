@@ -5,7 +5,7 @@
   // Bu yüzden canlıda backend'in tam Render URL'ine gitmemiz gerekiyor.
   const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
   // NOT: Render'a ilk deploy sonrası servis URL'inizi kontrol edin, farklıysa burayı güncelleyin.
-  const API_BASE = isLocal ? "http://localhost:8001/api" : "https://elektrohesap-pro-api.onrender.com/api";
+  const API_BASE = isLocal ? "http://localhost:8001/api" : 'https://elektrohesap-pro-api.onrender.com/api';
 
   async function request(path, options = {}) {
     const res = await fetch(API_BASE + path, {
