@@ -5,14 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>ElektroHesap Pro — Elektrik Mühendisliği Hesaplama Portalı</title>
   <meta name="description" content="Elektrik mühendisleri için modern, açık temalı hesaplama modülleri: Kablo kesidi, trafo & kompanzasyon, busbar, orta gerilim, NYY tablo, sorti hesapları." />
-  <link rel="icon" type="image/svg+xml" href="/assets/logo.svg" />
-  <link rel="stylesheet" href="/css/style.css" />
-  <link rel="stylesheet" href="/css/layout.css" />
-  <link rel="stylesheet" href="/css/components.css" />
+  <link rel="icon" type="image/svg+xml" href="./assets/logo.svg" />
+
+<link rel="stylesheet" href="../css/style.css" />
+<link rel="stylesheet" href="./css/layout.css" />
+<link rel="stylesheet" href="./css/components.css" />
 </head>
 <body>
-  <script src="/js/app-data.js"></script>
-  <script src="/js/main.js"></script>
+  <script src="../js/app-data.js"></script>
+<script src="../js/main.js"></script>
   <script>
     (async function () {
       const root = Shell.renderShell({
@@ -23,42 +24,42 @@
       const modules = [
         {
           key: "kablo",
-          href: "/pages/kablo-kesidi.html",
+          href: "./pages/kablo-kesidi.html",
           icon: Shell.ICONS.cable,
           title: "Kablo Kesidi Hesaplama",
           desc: "Çekilen güç, gerilim ve mesafeye göre kablo kesiti, akım taşıma ve gerilim düşümü hesabı."
         },
         {
           key: "trafo",
-          href: "/pages/trafo.html",
+          href: "./pages/trafo.html",
           icon: Shell.ICONS.zap,
           title: "Trafo & Kompanzasyon",
           desc: "Güç faktörü düzeltme, trafo gücü tespiti ve şalter seçim modülü."
         },
         {
           key: "busbar",
-          href: "/pages/busbar.html",
+          href: "./pages/busbar.html",
           icon: Shell.ICONS.rows,
           title: "Busbar Hatları",
           desc: "A ve B kolu busbar hatlarında hat boyunca gerilim düşümü analizleri."
         },
         {
           key: "og",
-          href: "/pages/orta-gerilim.html",
+          href: "./pages/orta-gerilim.html",
           icon: Shell.ICONS.bolt,
           title: "Orta Gerilim Malzeme",
           desc: "Primer/sekonder akımları, trafo oransal koruma ve ölçü akım trafosu seçimi."
         },
         {
           key: "nyy",
-          href: "/pages/nyy.html",
+          href: "./pages/nyy.html",
           icon: Shell.ICONS.table,
           title: "NYY Kablo Veri Tablosu",
           desc: "NYY kablo kesit, çap, direnç, toprak/hava akım taşıma kapasiteleri."
         },
         {
           key: "sorti",
-          href: "/pages/sorti.html",
+          href: "./pages/sorti.html",
           icon: Shell.ICONS.plug,
           title: "Sorti Hesapları",
           desc: "Sıva altı ve nemli yer lamba/priz sortileri malzeme maliyet analizleri."
