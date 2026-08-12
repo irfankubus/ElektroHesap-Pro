@@ -3,7 +3,9 @@
   // Local geliştirme: frontend 3000, backend 8001 farklı portlarda.
   // Üretim (emergent preview): aynı origin, /api ingress ile backend'e yönlenir.
   const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-  const API_BASE = isLocal ? "http://localhost:8001/api" : "/api";
+  const API_BASE = isLocal
+  ? "http://localhost:8001/api"
+  : "https://elektrohesap-pro-api.onrender.com/api";
 
   async function request(path, options = {}) {
     const res = await fetch(API_BASE + path, {
