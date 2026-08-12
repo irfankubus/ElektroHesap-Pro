@@ -1,32 +1,122 @@
 <!doctype html>
 <html lang="tr">
+
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ElektroHesap Pro — Elektrik Mühendisliği Hesaplama Portalı</title>
-  <meta name="description" content="Elektrik mühendisleri için modern, açık temalı hesaplama modülleri: Kablo kesidi, trafo & kompanzasyon, busbar, orta gerilim, NYY tablo, sorti hesapları." />
-  <link rel="icon" type="image/svg+xml" href="./assets/logo.svg" />
+    <meta charset="utf-8" />
 
-<link rel="stylesheet" href="../css/style.css" />
-<link rel="stylesheet" href="./css/layout.css" />
-<link rel="stylesheet" href="./css/components.css" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+    />
+
+    <title>
+        ElektroHesap Pro – Elektrik Mühendisliği Hesaplama Portalı
+    </title>
+
+    <meta
+        name="description"
+        content="Elektrik mühendisliği için modern, açık temalı hesaplama modülleri: Kablo kesiti, trafo ve kompanzasyon, busbar, orta gerilim, NYY tablo ve sorti hesaplama."
+    />
+
+    <!-- Favicon -->
+    <link
+        rel="icon"
+        type="image/svg+xml"
+        href="./assets/logo.svg"
+    />
+
+    <!-- CSS -->
+    <link
+        rel="stylesheet"
+        href="./css/style.css"
+    />
+
+    <link
+        rel="stylesheet"
+        href="./css/layout.css"
+    />
+
+    <link
+        rel="stylesheet"
+        href="./css/components.css"
+    />
 </head>
-<body>
-  <script src="../js/app-data.js"></script>
-<script src="../js/main.js"></script>
-  <script>
-    (async function () {
-      const root = Shell.renderShell({
-        title: "ElektroHesap Pro",
-        subtitle: "Elektrik mühendisliği hesaplama portalı"
-      });
 
-      const modules = [
-        {
-          key: "kablo",
-          href: "./pages/kablo-kesidi.html",
-          icon: Shell.ICONS.cable,
-          title: "Kablo Kesidi Hesaplama",
+<body>
+
+    <!-- JavaScript -->
+    <script src="./js/app-data.js"></script>
+
+    <script src="./js/main.js"></script>
+
+    <script>
+        (async function () {
+
+            const root = Shell.renderShell({
+                title: "ElektroHesap Pro",
+                subtitle: "Elektrik mühendisliği hesaplama portalı"
+            });
+
+            const modules = [
+                {
+                    key: "kablo",
+                    href: "./pages/kablo-kesidi.html",
+                    icon: Shell.ICONS.cable,
+                    title: "Kablo Kesiti Hesaplama",
+                    desc: "Çekilen güç, gerilim ve mesafeye göre kablo kesiti, akım taşıma ve gerilim düşümü hesabı."
+                },
+
+                {
+                    key: "trafo",
+                    href: "./pages/trafo-kompanzasyon.html",
+                    icon: Shell.ICONS.transformer,
+                    title: "Trafo & Kompanzasyon",
+                    desc: "Trafo ve kompanzasyon hesaplamaları."
+                },
+
+                {
+                    key: "busbar",
+                    href: "./pages/busbar.html",
+                    icon: Shell.ICONS.busbar,
+                    title: "Busbar Hesaplama",
+                    desc: "Busbar sistemleri için hesaplama araçları."
+                },
+
+                {
+                    key: "orta-gerilim",
+                    href: "./pages/orta-gerilim.html",
+                    icon: Shell.ICONS.electric,
+                    title: "Orta Gerilim",
+                    desc: "Orta gerilim hesaplama modülleri."
+                },
+
+                {
+                    key: "nyy",
+                    href: "./pages/nyy-tablo.html",
+                    icon: Shell.ICONS.table,
+                    title: "NYY Tablo",
+                    desc: "NYY kablo ve tablo hesaplamaları."
+                },
+
+                {
+                    key: "sorti",
+                    href: "./pages/sorti.html",
+                    icon: Shell.ICONS.bolt,
+                    title: "Sorti Hesaplama",
+                    desc: "Sorti ve elektrik tesisatı hesaplamaları."
+                }
+            ];
+
+            /*
+             * Buradan sonraki mevcut kodunu
+             * değiştirme.
+             */
+
+        })();
+    </script>
+
+</body>
+</html>
           desc: "Çekilen güç, gerilim ve mesafeye göre kablo kesiti, akım taşıma ve gerilim düşümü hesabı."
         },
         {
