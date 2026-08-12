@@ -2,12 +2,12 @@
 (function () {
   const MODULES = [
     { key: "home", href: "/", label: "Ana Sayfa", icon: "home" },
-    { key: "kablo", href: "./pages/kablo-kesidi.html", label: "Kablo Kesidi", icon: "cable" },
-    { key: "trafo", href: "./pages/trafo.html", label: "Trafo & Kompanzasyon", icon: "zap" },
-    { key: "busbar", href: "./pages/busbar.html", label: "Busbar Hatları", icon: "rows" },
-    { key: "og", href: "./pages/orta-gerilim.html", label: "Orta Gerilim", icon: "bolt" },
-    { key: "nyy", href: "./pages/nyy.html", label: "NYY Kablo Verisi", icon: "table" },
-    { key: "sorti", href: "./pages/sorti.html", label: "Sorti Hesapları", icon: "plug" },
+    { key: "kablo", href: "/ElektroHesap-Pro/pages/kablo-kesidi.html", label: "Kablo Kesidi", icon: "cable" },
+    { key: "trafo", href: "/ElektroHesap-Pro/pages/trafo.html", label: "Trafo & Kompanzasyon", icon: "zap" },
+    { key: "busbar", href: "/ElektroHesap-Pro/pages/busbar.html", label: "Busbar Hatları", icon: "rows" },
+    { key: "og", href: "/ElektroHesap-Pro/pages/orta-gerilim.html", label: "Orta Gerilim", icon: "bolt" },
+    { key: "nyy", href: "/ElektroHesap-Pro/pages/nyy.html", label: "NYY Kablo Verisi", icon: "table" },
+    { key: "sorti", href: "/ElektroHesap-Pro/pages/sorti.html", label: "Sorti Hesapları", icon: "plug" },
   ];
 
   const ICONS = {
@@ -50,7 +50,7 @@
     const shell = `
       <aside class="sidebar" id="sidebar">
         <div class="sidebar-brand">
-          <img src="./assets/logo.svg" alt="ElektroHesap Pro Logo"/>
+          <img src="/ElektroHesap-Pro/assets/logo.svg" alt="ElektroHesap Pro Logo"/>
           <div class="sidebar-brand-text">
             <span class="sidebar-brand-title">ElektroHesap</span>
             <span class="sidebar-brand-sub">Pro · v1.0</span>
