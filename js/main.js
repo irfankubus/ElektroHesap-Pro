@@ -1,7 +1,7 @@
 /* Ortak yardımcı fonksiyonlar ve sidebar / toast */
 (function () {
   const MODULES = [
-    { key: "home", href: "/", label: "Ana Sayfa", icon: "home" },
+    { key: "home", href: "/ElektroHesap-Pro/", label: "Ana Sayfa", icon: "home" },
     { key: "kablo", href: "/ElektroHesap-Pro/pages/kablo-kesidi.html", label: "Kablo Kesidi", icon: "cable" },
     { key: "trafo", href: "/ElektroHesap-Pro/pages/trafo.html", label: "Trafo & Kompanzasyon", icon: "zap" },
     { key: "busbar", href: "/ElektroHesap-Pro/pages/busbar.html", label: "Busbar Hatları", icon: "rows" },
