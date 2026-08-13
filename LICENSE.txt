@@ -1,0 +1,64 @@
+ElektroHesap Pro — Kullanım Lisansı
+Copyright (c) 2026 İrfan Kubuş. Tüm hakları saklıdır.
+
+TÜRKÇE
+
+Bu depoda (repository) yer alan yazılım, kaynak kod, tasarım, dokümantasyon ve
+ilgili tüm materyaller (bundan sonra "Yazılım" olarak anılacaktır) İrfan Kubuş'a
+aittir ve telif hakkı ile korunmaktadır.
+
+İZİN VERİLEN KULLANIM:
+Bu Yazılımı aşağıdaki koşullarla, KİŞİSEL ve EĞİTİM amaçlı kullanmak, incelemek,
+değiştirmek ve bu amaçlarla paylaşmak serbesttir:
+
+  1. Atıf (Attribution): Yazılımın herhangi bir kopyasında, türetilmiş
+     çalışmasında veya bu Yazılımdan esinlenen içerikte, orijinal yazarın
+     adı ("İrfan Kubuş") ve bu projenin adı ("ElektroHesap Pro") açıkça
+     belirtilmelidir.
+
+  2. Ticari Olmayan Kullanım (NonCommercial): Bu Yazılım veya herhangi bir
+     türevi; satılamaz, ticari bir ürün veya hizmetin parçası olarak
+     sunulamaz, reklam geliri elde etmek amacıyla kullanılamaz veya
+     doğrudan ya da dolaylı olarak ticari kazanç sağlamak amacıyla
+     kullanılamaz.
+
+YASAKLANAN KULLANIM:
+  - Bu Yazılımın tamamının veya bir kısmının, yazarın yazılı izni olmadan
+    ticari bir üründe, hizmette, danışmanlık faaliyetinde veya satışa
+    sunulan herhangi bir çalışmada kullanılması yasaktır.
+  - Yazılımın sahiplik/yazarlık bilgisi değiştirilerek başka bir kişi veya
+    kuruluş tarafından kendi eseriymiş gibi sunulması (intihal) kesinlikle
+    yasaktır.
+
+Ticari kullanım izni için: [irfankubus@gmail.com]
+
+Bu Yazılım "OLDUĞU GİBİ" sunulmaktadır, herhangi bir garanti verilmemektedir.
+Yazar, bu Yazılımın kullanımından doğabilecek hiçbir zarardan sorumlu
+tutulamaz.
+
+---
+
+ENGLISH (Summary)
+
+Copyright (c) 2026 İrfan Kubuş. All rights reserved.
+
+Permission is granted to use, study, modify, and share this software for
+PERSONAL and EDUCATIONAL purposes only, provided that:
+
+  1. Attribution: Any copy or derivative of this project must clearly
+     credit the original author ("İrfan Kubuş") and this project's name
+     ("ElektroHesap Pro").
+
+  2. NonCommercial: This software, in whole or in part, may NOT be sold,
+     offered as part of a commercial product or service, monetized, or
+     otherwise used for direct or indirect commercial gain without the
+     express written permission of the author.
+
+Any commercial use, resale, or repackaging of this software without prior
+written consent from the author is strictly prohibited.
+
+This software is provided "AS IS", without warranty of any kind. The
+author shall not be held liable for any damages arising from the use of
+this software.
+
+For commercial licensing inquiries, contact: [irfankubus@gmail.com]
